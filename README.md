@@ -1,5 +1,5 @@
 # OrleansCounty---Arma-3-Map[WIP]
-OrleansCounty v.1.0
+OrleansCounty v1.0
 
 --Information--
 The terrain is 16km^2 big and is similar in scale to the real location. 
