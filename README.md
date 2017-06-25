@@ -3,6 +3,7 @@
 Author = "Trunks & Lumnuon"; 
 ----------------------------
 -INFORMATION-
+
 The terrain is 16km^2 big and is true to the real scale of the area.
 ----------------------------
 Mask/Sat: 8192x8192px
